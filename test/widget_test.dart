@@ -7,7 +7,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:my_app/app.dart';
+import 'package:my_app/weather/weather_app.dart';
 import 'package:weather_repository/weather_repository.dart';
 
 void main() {
